@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Django framework
 - 📫 You can contact me at rishisah907@gmail.com
 
-#####Connect with me:
-[Youtube](http://youtube.com/c/FreakyGadgets
+##### Connect with me:
+[Youtube](http://youtube.com/c/FreakyGadgets)
 [Twitter](http://twitter.com/hrishavsharma)
 
 <!---
