@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishav Sharma
 - 👀 I’m interested in Web devlopment and Machine Learning
-- 🌱 I’m currently learning Django framework
+- 🌱 I’m currently working in Django framework
 - 📫 You can contact me at rishisah907@gmail.com
 
 ##### Connect with me:
